@@ -1,0 +1,7 @@
+{
+    "prettier.alignObjectProperties": true,
+    "prettier.arrayExpand": true,
+    "prettier.breakBeforeElse": true,
+    "editor.defaultFormatter": "remimarsal.prettier-now",
+    "editor.formatOnSave": true
+}
